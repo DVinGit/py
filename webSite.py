@@ -1,0 +1,1 @@
+print("sorry\n" * 1000)
